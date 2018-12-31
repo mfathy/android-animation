@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">"Animation Demo "</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="LinearViewHorizontal">LinearView Horizontal</string>
+    <string name="GridView">GridView</string>
+    <string name="StaggeredViewHorizontal">StaggeredViewHorizontal</string>
+    <string name="StaggeredViewVertical">StaggeredViewVertical</string>
+    <string name="LinearViewVertical">LinearView Vertical </string>
+
+</resources>
