@@ -1,4 +1,4 @@
-package me.mfathy.android_animations
+package me.mfathy.android.animations
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4
